@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mahdi
+- 👀 I’m interested in AI and software architecture and design
+- 🌱 I’m currently learning system architecture and design
+- 💞️ I’m looking to collaborate on AI softwares
+- 📫 How to reach me Mahdirashidi998@gmail.com
